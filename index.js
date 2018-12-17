@@ -4,4 +4,4 @@ return document.querySelector(selector)
 }
 
 function nestedTarget()
-document.getElementById('nested')
+document.getElementById('nested').querySelector('target')
