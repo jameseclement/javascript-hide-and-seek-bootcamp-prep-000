@@ -3,5 +3,6 @@ return document.querySelector(selector)
 
 }
 
-function nestedTarget()
+function nestedTarget(){
 document.getElementById('nested').querySelector('target')
+}
