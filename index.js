@@ -4,5 +4,5 @@ return document.querySelector(selector)
 }
 
 function nestedTarget(){
-return document.querySelector('div.id'
+return document.querySelector('div.id div.class
 }
