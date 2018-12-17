@@ -7,4 +7,6 @@ function nestedTarget(){
 return document.querySelector('div#nested div.target')
 }
 
-function 
+function increaseRankBy(n) {
+  
+}
