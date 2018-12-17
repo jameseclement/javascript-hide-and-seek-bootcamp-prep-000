@@ -8,5 +8,5 @@ return document.querySelector('div#nested div.target')
 }
 
 function increaseRankBy(n) {
-  document.querySelectorAll
+  document.querySelectorAll('ul.ranked-list')
 }
